@@ -16,6 +16,9 @@ dependencies:
   firebase_auth: ^4.14.0
   cloud_firestore: ^4.13.0
 
+  # Zego Cloud for Video Calls
+  zego_uikit_prebuilt_call: ^5.0.0
+
   # Agora RTC Engine for Free Video Calls
   agora_rtc_engine: ^6.2.0
   permission_handler: ^11.4.3
