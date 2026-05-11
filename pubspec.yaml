@@ -15,6 +15,7 @@ dependencies:
   firebase_core: ^2.24.0
   firebase_auth: ^4.14.0
   cloud_firestore: ^4.13.0
+  firebase_remote_config: ^4.3.0
 
   # Zego Cloud for Video Calls
   zego_uikit_prebuilt_call: ^5.0.0
@@ -26,6 +27,7 @@ dependencies:
   # UI and State Management
   cupertino_icons: ^1.0.2
   provider: ^6.0.0
+  intl: ^0.19.0
 
 dev_dependencies:
   flutter_test:
