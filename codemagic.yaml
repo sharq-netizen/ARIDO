@@ -12,7 +12,9 @@ workflows:
       events:
         - push
       branch:
-        - main
+        patterns:
+          - pattern: main
+            include: true
     scripts:
       - name: Set up local properties
         script: |
